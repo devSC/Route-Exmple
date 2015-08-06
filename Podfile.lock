@@ -1,0 +1,19 @@
+PODS:
+  - DeepLinkKit (1.1.0)
+  - HHRouter (0.1.5)
+  - JLRoutes (1.5.2)
+  - Routable (0.1.1)
+
+DEPENDENCIES:
+  - DeepLinkKit
+  - HHRouter
+  - JLRoutes
+  - Routable
+
+SPEC CHECKSUMS:
+  DeepLinkKit: 3979713c8a0b6bd3259fb7917e572acf56645a35
+  HHRouter: c82ce169fea838ea85a819133df40d19605f5c95
+  JLRoutes: fc36fd38ab476d5ac3a6a84b05be60e4b1a2bc81
+  Routable: 42731c7757b9b7ad32dd84d988b3d5428b966dfd
+
+COCOAPODS: 0.35.0

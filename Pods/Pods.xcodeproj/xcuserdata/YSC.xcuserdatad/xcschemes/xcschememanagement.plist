@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-DeepLinkKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-HHRouter.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-JLRoutes.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Routable.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3363E25001C1C74238A9E8E9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8E555E740A3EDFC8EF58B6A1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A9AFF21017A7791A09401F41</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CFE83CD4BB7F8B7C132AF331</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FBBDB2E138C66A7A378DE4BF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
